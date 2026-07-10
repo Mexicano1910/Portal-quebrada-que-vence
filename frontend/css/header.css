@@ -1,0 +1,8 @@
+.header-qv {
+  background-color: var(--cor-card);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+  padding: 15px 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}

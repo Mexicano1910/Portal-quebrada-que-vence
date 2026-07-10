@@ -1,0 +1,19 @@
+.btn-success {
+  transition: all 0.3s ease;
+  animation: pulsar 1.5s infinite;
+}
+
+.btn-success:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px var(--verde-principal);
+}
+
+.btn-qv {
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-qv:hover {
+  transform: translateY(-2px);
+}

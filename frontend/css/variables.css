@@ -1,0 +1,15 @@
+:root {
+  --verde-prinpal: #198754;
+  --verde-escuro: #145c32;
+  --azul-fundo: #1e3c72;
+  --cor-fundo: #f5f7fa;
+  --cor-card: #ffffff;
+  --cinza: #6c757d;
+  --cor-texto: #212529;
+
+  --border-radius: 16px;
+
+  --sombra-card: 0 12px 35px rgba(0, 0, 0, 0.12);
+
+  --font-principal: "Segoe UI", Arial, sans-serif;
+}
