@@ -20,7 +20,7 @@
 
 .hero-content p {
   font-size: 1.2rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: var(--cor-p);
   line-height: 1.8;
   margin-bottom: 40px;
   max-width: 550px;

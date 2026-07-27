@@ -5,7 +5,8 @@
   --cor-fundo: #f5f7fa;
   --cor-card: #ffffff;
   --cinza: #6c757d;
-  --cor-texto: #212529;
+  --cor-texto: #ffffff;
+  --cor-p: rgba(255, 255, 255, 0.85);
 
   --border-radius: 16px;
 

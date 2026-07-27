@@ -27,7 +27,7 @@
   font-size: 1.3rem;
   line-height: 1.8;
   margin-bottom: 30px;
-  color: #ffff;
+  color: var(--cor-p);
 }
 
 .about-image {
