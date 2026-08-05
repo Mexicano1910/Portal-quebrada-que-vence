@@ -69,4 +69,5 @@
 
 .agenda-content .btn {
   width: 85%;
+  animation: none;
 }
